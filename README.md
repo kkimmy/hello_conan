@@ -1,10 +1,14 @@
 # hello_conan
 This repository contains examples that I used while exploring conan.
 
+<p align="center"> <img height="200" src="https://conan.io/img/logo-conan.svg">
+</p>
+
 ## Conan
 [Conan](https://conan.io) is an open source, decentralized and multi-platform package manager to create and share all your native binaries.
 Official documentation: [https://docs.conan.io/en/latest/](https://docs.conan.io/en/latest/)
 
+A list of all the resources for conan is available here: [Awesome Conan](https://github.com/kkimmy/awesome-conan)
 ## Requirements
 
 * python 3.7 or higher 
